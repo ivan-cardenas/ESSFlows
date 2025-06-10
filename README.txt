@@ -1,5 +1,8 @@
-﻿This README.txt file was generated on 20220407 by IVAN CARDENAS, LAKSHMIPRIYA SABU and EMERALD AWUOR
+﻿This README.txt file was generated on 20220407 by IVAN CARDENAS, LAKSHMIPRIYA SABU and EMERALD AWUOR. 
+License: CC-BY-NC-ND-4.0
 
+abstract: > 
+This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at the University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
 
 -------------------
 GENERAL INFORMATION
@@ -32,7 +35,7 @@ DATA & FILE OVERVIEW
 
 DATA--|
 	|Raster-----|
-	|		|220330_UrbanAreasSenegal_v1.tif | Source:Global Human Settlement Layer (2019)
+	|		|220330_UrbanAreasSenegal_v1.tif | Source: Global Human Settlement Layer (2019)
 	|SHP--------|
 			|210218_Landingsites_v1.shp | Source: PRCM (2021)
 			|220330_RoadNetwork_v1.shp | Source: OSM (2022)
@@ -44,10 +47,6 @@ DATA--|
 	|Spredsheets|SardinelaSpatialExtent_v1.csv | Source: OBIS(2022) | Geo points were derived from this layer
 			|Catch of biomass_v1.pdf|Source:DPM(2018)| The data values are derived from DPM report
 			
-
-
-
-
 
 --------------------------
 METHODOLOGICAL INFORMATION
