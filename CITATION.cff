@@ -1,21 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this methodology, please cite this repository as follows:"
-title: "Redistribution Methodology for Marine Food Systems using OD Flows and CO2 Cost Estimation"
+title: "MAPPING ECOSYSTEM SERVICE FLOWS IN SENEGAL: Sardinella protein flows from small scale fisheries"
 authors:
-  - family-names: Cardenas-Leon
-    given-names: Ivan
-    orcid: https://orcid.org/0009-0005-0245-633X
-    affiliation: University of Twente
- - family-names: Awuaor
-    given-names: Emerald
-    affiliation: University of Twente
- - family-names: Sabu
-    given-names: Lakshmipriya
-    affiliation: University of Twente
-abstract: >
-  This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling. Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
+  - family-names: "Cardenas-Leon"
+    given-names: "Ivan"
+    orcid: "https://orcid.org/0009-0005-0245-633X"
+    affiliation: "University of Twente"
+ - family-names: "Awuaor" 
+    given-names: "Emerald"
+    affiliation: "University of Twente"
+ - family-names: "Sabu"
+    given-names: "Lakshmipriya"
+    affiliation: "University of Twente"
+abstract: >"This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation."
 license: CC-BY-NC-ND-4.0
-repository-code: https://github.com/cygnus26/EESFlows
+repository-code: "https://github.com/cygnus26/EESFlows"
 keywords:
   - origin-destination modeling
   - food redistribution
