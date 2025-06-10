@@ -6,13 +6,14 @@ authors:
     given-names: "Ivan"
     orcid: "https://orcid.org/0009-0005-0245-633X"
     affiliation: "University of Twente"
- - family-names: "Awuaor" 
+  - family-names: "Awuaor"
     given-names: "Emerald"
     affiliation: "University of Twente"
- - family-names: "Sabu"
+  - family-names: "Sabu"
     given-names: "Lakshmipriya"
     affiliation: "University of Twente"
-abstract: >"This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation."
+abstract: > 
+This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
 license: CC-BY-NC-ND-4.0
 repository-code: "https://github.com/cygnus26/EESFlows"
 keywords:
