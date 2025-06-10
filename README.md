@@ -36,7 +36,7 @@ Recommended citation for the data:
 --------------------
 DATA & FILE OVERVIEW
 --------------------
-
+```
 
 DATA--|
 	|Raster-----|
@@ -52,10 +52,12 @@ DATA--|
 	|Spredsheets|SardinelaSpatialExtent_v1.csv | Source: OBIS(2022) | Geo points were derived from this layer
 			|Catch of biomass_v1.pdf|Source:DPM(2018)| The data values are derived from DPM report
 			
+```
 
 --------------------------
 METHODOLOGICAL INFORMATION
 --------------------------
+```
 
 Description of methods used for collection/generation of data: 220330_UrbanAreasSenegal_v1.tif | Source:Global Human Settlement Layer (2019)| https://ghsl.jrc.ec.europa.eu/download.php
                                                              : 210218_Landingsites_v1.shp | Source: PRCM (2021)| https://prcmarine.org/
@@ -66,7 +68,7 @@ Description of methods used for collection/generation of data: 220330_UrbanAreas
                                                              : Protected Areas_v1.shp|UNEP-WCMC and IUCN(2022)| https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa
                                                              : SardinelaSpatialExtent_v1.csv | Source: OBIS(2022)| https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6/dataset
                                                              : Catch of biomass_v1.pdf|Source:DPM(2018)| http://hdl.handle.net/1834/15921
-
+```
 Methods for processing the data: Network Analysis was performed to calculate the Origin-Destination distances. The segments were later processed to calculate the DOT and CO2 Emissions.
 
 Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers: ArcGIS PRO 2.7
