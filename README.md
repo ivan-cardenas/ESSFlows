@@ -4,8 +4,8 @@
 
 This README file was generated on 20220407 by IVAN CARDENAS, LAKSHMIPRIYA SABU and EMERALD AWUOR. 
 
-abstract: > 
-This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at the University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
+### Abstract:  
+> This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at the University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
 
 -------------------
 GENERAL INFORMATION
