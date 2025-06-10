@@ -28,7 +28,9 @@ SHARING/ACCESS INFORMATION
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See LICENSE file for details. Please contact Authors.
 
-Recommended citation for the data: Cardenas-Leon, et al. (2022)
+Recommended citation for the data: 
+
+> Cardenas-Leon, I. L., Awuaror, E., & Sabu, L. (2022). MAPPING ECOSYSTEM SERVICE FLOWS IN SENEGAL: Sardinella protein flows from small-scale fisheries (Version 1.0.0) [Publication]. https://doi.org/10.5281/zenodo.15633130
 
 
 --------------------
