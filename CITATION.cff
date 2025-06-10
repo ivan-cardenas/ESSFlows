@@ -14,7 +14,5 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2022-04-21
 url: "MAPPING ECOSYSTEM SERVICE FLOWS IN SENEGAL: Sardinella protein flows from small-scale fisheries"
-abstract: > 
-This repository contains the original presentation and methodology developed in March–April 2022 for modeling the redistribution of marine food resources using origin–destination flows, CO2 fuel cost estimation, and Furness modeling.  Developed independently as part of the course "Global Challenges, Local Actions" at the M-GEO program at University of Twente. This work includes all figures, calculations, and visualizations used in the original project submission and final presentation.
-license: CC-BY-NC-ND-4.0
+
 
