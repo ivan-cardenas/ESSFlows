@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es">
+<dataIdInfo>
+<idCitation>
+<resTitle>Urban Footprint</resTitle>
+<date>
+<pubDate>2022-04-07T00:00:00</pubDate>
+</date>
+<citRespParty>
+<rpIndName>Charis Chalkiadakis</rpIndName>
+<rpOrgName>ITC</rpOrgName>
+<rpPosName>PhD Candidate</rpPosName>
+<role>
+<RoleCd value="011">
+</RoleCd>
+</role>
+</citRespParty>
+</idCitation>
+<idPurp>Urban Footprint for Senegal Country used in Senegal Fishery Project. ITC</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Urban Footprint for Senegal Country used in Senegal Fishery Project. ITC&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<idCredit>Cardenas I., Sabu L., Olango E.</idCredit>
+<searchKeys>
+<keyword>Raster</keyword>
+<keyword>Urban</keyword>
+<keyword>footprint</keyword>
+</searchKeys>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Academic Purposes only&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+<dataLang>
+<languageCode value="eng">
+</languageCode>
+</dataLang>
+<dataChar>
+<CharSetCd value="004">
+</CharSetCd>
+</dataChar>
+<tpCat>
+<TopicCatCd value="016">
+</TopicCatCd>
+</tpCat>
+</dataIdInfo>
+<mdHrLv>
+<ScopeCd value="005">
+</ScopeCd>
+</mdHrLv>
+<mdLang>
+<languageCode value="eng">
+</languageCode>
+</mdLang>
+<mdChar>
+<CharSetCd value="004">
+</CharSetCd>
+</mdChar>
+<mdConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Academic Purposes only. CC-BY-SA.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</mdConst>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="011">
+</MaintFreqCd>
+</maintFreq>
+</mdMaint>
+<mdContact>
+<editorSource>external</editorSource>
+<editorDigest>62ddd17c39e451cd423c6c8184afd09dbce952c0</editorDigest>
+<rpIndName>Charis Chalkiadakis</rpIndName>
+<rpOrgName>ITC</rpOrgName>
+<rpPosName>PhD Candidate</rpPosName>
+<editorSave>True</editorSave>
+<displayName>Charis Chalkiadakis</displayName>
+<role>
+<RoleCd value="011">
+</RoleCd>
+</role>
+</mdContact>
+</metadata>
