@@ -1,5 +1,4 @@
 ﻿This README.txt file was generated on 20220407 by IVAN CARDENAS, LAKSHMIPRIYA SABU and EMERALD AWUOR
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See LICENSE file for details.
 
 
 -------------------
@@ -21,7 +20,7 @@ Information about funding sources or sponsorship that supported the collection o
 SHARING/ACCESS INFORMATION
 -------------------------- 
 
-Licenses/restrictions placed on the data, or limitations of reuse: CC-BY-SA. Please contact Authors.
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See LICENSE file for details. Please contact Authors.
 
 Recommended citation for the data: Cardenas-Leon, et al. (2022)
 
