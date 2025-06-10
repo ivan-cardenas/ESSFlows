@@ -53,121 +53,16 @@ DATA--|
 METHODOLOGICAL INFORMATION
 --------------------------
 
-Description of methods used for collection/generation of data: 220330_UrbanAreasSenegal_v1.tif | Source:Global Human Settlement Layer (2019)|https://ghsl.jrc.ec.europa.eu/download.php
-                                                             : 210218_Landingsites_v1.shp | Source: PRCM (2021)|https://prcmarine.org/
-                                                             : 220330_RoadNetwork_v1.shp | Source: OSM (2022)|https://www.openstreetmap.org/export#map=7/14.477/-14.548
-                                                             : 220330_Boundaries_v1.shp | Source: OSM (2022)|https://www.openstreetmap.org/export#map=7/14.477/-14.548
-                                                             : 210218_SardinelaSpExtent_v1.shp | Source: OBIS (2022)|https://www.openstreetmap.org/export#map=7/14.477/-14.548
-                                                             : Exclusove Economic Zones_v1.shp| Source :Flanders Marine Institute(2019)|https://www.vliz.be/en/data-search
-                                                             : Protected Areas_v1.shp|UNEP-WCMC and IUCN(2022)|https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa
-                                                             : SardinelaSpatialExtent_v1.csv | Source: OBIS(2022)|https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6/dataset
-                                                             : Catch of biomass_v1.pdf|Source:DPM(2018)|http://hdl.handle.net/1834/15921
-Methods for processing the data: Network Analysis was performed to calculate the Origin - Destination distances, The segments were later processed to calculate the DOT and CO2 Emissions.
+Description of methods used for collection/generation of data: 220330_UrbanAreasSenegal_v1.tif | Source:Global Human Settlement Layer (2019)| https://ghsl.jrc.ec.europa.eu/download.php
+                                                             : 210218_Landingsites_v1.shp | Source: PRCM (2021)| https://prcmarine.org/
+                                                             : 220330_RoadNetwork_v1.shp | Source: OSM (2022)| https://www.openstreetmap.org/export#map=7/14.477/-14.548
+                                                             : 220330_Boundaries_v1.shp | Source: OSM (2022)| https://www.openstreetmap.org/export#map=7/14.477/-14.548
+                                                             : 210218_SardinelaSpExtent_v1.shp | Source: OBIS (2022)| https://www.openstreetmap.org/export#map=7/14.477/-14.548
+                                                             : Exclusove Economic Zones_v1.shp| Source :Flanders Marine Institute(2019)| https://www.vliz.be/en/data-search
+                                                             : Protected Areas_v1.shp|UNEP-WCMC and IUCN(2022)| https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa
+                                                             : SardinelaSpatialExtent_v1.csv | Source: OBIS(2022)| https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6/dataset
+                                                             : Catch of biomass_v1.pdf|Source:DPM(2018)| http://hdl.handle.net/1834/15921
+
+Methods for processing the data: Network Analysis was performed to calculate the Origin-Destination distances. The segments were later processed to calculate the DOT and CO2 Emissions.
 
 Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers: ArcGIS PRO 2.7
-
-Standards and calibration information, if appropriate: NA
-
-Environmental/experimental conditions: NA
-
-Describe any quality-assurance procedures performed on the data:NA
-
-
---------------------------
-DATA-SPECIFIC INFORMATION 
---------------------------
-Name of the data : Sardinella Aurita spatial Extent
-
-Number of variables:1
-
-Number of cases/rows: 1
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Catch of biomass
-
-Number of variables:2
-
-Number of cases/rows:20
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Landing Sites
-
-Number of variables:14
-
-Number of cases/rows:50
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Urban Footprints
-
-Number of variables:1
-
-Number of cases/rows: 1
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Road Network
-
-Number of variables:11
-
-Number of cases/rows: 286541
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Railway Lines
-
-Number of variables:7
-
-Number of cases/rows: 272
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Exclusive Economic Zone
-
-Number of variables:26
-
-Number of cases/rows: 2215
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
-
-Name of the data : Protected Areas
-
-Number of variables:30
-
-Number of cases/rows: 133
-
-Variable list, defining any abbreviations, units of measure, codes or symbols used:No abbrevations
-   
-Missing data codes:NA
-
-Specialized formats or other abbreviations used:No abbrevations
